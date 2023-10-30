@@ -20,3 +20,8 @@
 - [Measuring Hunting Success with PEAK](https://www.splunk.com/en_us/blog/security/peak-threat-hunting-metrics.html)
 - [Introducing the PEAK Threat Hunting Framework](https://www.splunk.com/en_us/blog/security/peak-threat-hunting-framework.html)
 - [Turning Hunts Into Detections with PEAK](https://www.splunk.com/en_us/blog/security/peak-turning-hunts-into-detections.html)
+
+## Threat Intelligence
+### Resources
+- [Using ATT&CK to Advance Cyber Threat Intelligence — Part 1](https://medium.com/mitre-attack/using-att-ck-to-advance-cyber-threat-intelligence-part-1-c5ad14d59724)
+- [Using ATT&CK to Advance Cyber Threat Intelligence — Part 2](https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/using-attck-to-advance-cyber-threat-0)
