@@ -6,12 +6,10 @@
 # Contents
 - [Threat Hunting](#threat-hunting)
   - [Resources](#resources)
-  - [Tools](#tools-1)
 - [Threat Intelligence](#threat-intelligence)
   - [Resources](#resources-1)
-  - [Tools](#tools-2)
+- [Case Study/Report](#case-study)
  
-
 ## Threat Hunting
 ### Resources
 - [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
@@ -25,3 +23,7 @@
 ### Resources
 - [Using ATT&CK to Advance Cyber Threat Intelligence — Part 1](https://medium.com/mitre-attack/using-att-ck-to-advance-cyber-threat-intelligence-part-1-c5ad14d59724)
 - [Using ATT&CK to Advance Cyber Threat Intelligence — Part 2](https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/using-attck-to-advance-cyber-threat-0)
+- [THREAT REPORT ATT&CK MAPPER (TRAM)](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/threat-report-attck-mapper-tram/)
+
+## Case Study/Report
+-[From ScreenConnect to Hive Ransomware in 61 hours](https://thedfirreport.com/2023/09/25/from-screenconnect-to-hive-ransomware-in-61-hours/#initial-access)
