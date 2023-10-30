@@ -4,4 +4,9 @@
 <p align="justify">With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems for a safer world — by bringing communities together to develop more effective cybersecurity. ATT&CK is open and available to any person or organization for use at no charge.</p>
 
 # Contents
-
+- [Threat Hunting](#threat-hunting)
+  - [Resources](#resources-1)
+  - [Tools](#tools-1)
+- [Threat Intelligence](#threat-intelligence)
+  - [Resources](#resources-2)
+  - [Tools](#tools-2)
