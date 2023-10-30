@@ -1,14 +1,17 @@
-# MITRE-ATTACK FRAMEWORK RESOURCES
+# BLUE TEAM RESOURCES
 
+## MITRE ATT&CK
 <p align="justify">MITRE ATT&CK® is a globally accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.</p>
 <p align="justify">With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems for a safer world — by bringing communities together to develop more effective cybersecurity. ATT&CK is open and available to any person or organization for use at no charge.</p>
+
+- [MITRE ATT&CK WEBSITE](https://attack.mitre.org/)
 
 # Contents
 - [Threat Hunting](#threat-hunting)
   - [Resources](#resources)
 - [Threat Intelligence](#threat-intelligence)
   - [Resources](#resources-1)
-- [Case Study/Report](#case-study)
+- [Case Study/Report](#case-study/report)
  
 ## Threat Hunting
 ### Resources
@@ -18,6 +21,8 @@
 - [Measuring Hunting Success with PEAK](https://www.splunk.com/en_us/blog/security/peak-threat-hunting-metrics.html)
 - [Introducing the PEAK Threat Hunting Framework](https://www.splunk.com/en_us/blog/security/peak-threat-hunting-framework.html)
 - [Turning Hunts Into Detections with PEAK](https://www.splunk.com/en_us/blog/security/peak-turning-hunts-into-detections.html)
+- [Intelligence Driven Threat Hunting & Detection](https://www.youtube.com/watch?v=okfH7tuZUAI)
+- [Defender Mindset](https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa)
 
 ## Threat Intelligence
 ### Resources
@@ -26,4 +31,5 @@
 - [THREAT REPORT ATT&CK MAPPER (TRAM)](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/threat-report-attck-mapper-tram/)
 
 ## Case Study/Report
--[From ScreenConnect to Hive Ransomware in 61 hours](https://thedfirreport.com/2023/09/25/from-screenconnect-to-hive-ransomware-in-61-hours/#initial-access)
+- [Uncovering DDGroup — A long-time threat actor](https://gi7w0rm.medium.com/uncovering-ddgroup-a-long-time-threat-actor-d3b3020625a4)
+- [Unpacking Malicious Macro](https://redcanary.com/blog/malicious-excel-macro/)
