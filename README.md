@@ -10,3 +10,7 @@
 - [Threat Intelligence](#threat-intelligence)
   - [Resources](#resources-2)
   - [Tools](#tools-2)
+ 
+
+# Resources
+- [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
