@@ -11,7 +11,7 @@
   - [Resources](#resources)
 - [Threat Intelligence](#threat-intelligence)
   - [Resources](#resources-1)
-- [Case Study/Report](#case-study/report)
+- [Case Study/Report](#case-studyreport)
  
 ## Threat Hunting
 ### Resources
